@@ -17,4 +17,7 @@ npm run dev
 ```
 修改文件，hot reload
 
+建议使用crxjs支持的前端框架，因为其他框架似乎还没有对content script hmr做很好的支持。
+
 ## 限定网站
+
